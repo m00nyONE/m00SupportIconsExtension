@@ -1,6 +1,6 @@
 M00SIE = M00SIE or {
     name = "m00SupportIconsExtension",
-    version = "1.0.0",
+    version = "1.1.0",
 }
 
 local function Initialize()

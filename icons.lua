@@ -31,6 +31,15 @@ M00SIE.icons = {
     "m00SupportIconsExtension/icons/unicorn.dds",
     "m00SupportIconsExtension/icons/crab.dds",
     "m00SupportIconsExtension/icons/shark.dds",
+    "m00SupportIconsExtension/icons/1.dds",
+    "m00SupportIconsExtension/icons/2.dds",
+    "m00SupportIconsExtension/icons/3.dds",
+    "m00SupportIconsExtension/icons/4.dds",
+    "m00SupportIconsExtension/icons/5.dds",
+    "m00SupportIconsExtension/icons/6.dds",
+    "m00SupportIconsExtension/icons/7.dds",
+    "m00SupportIconsExtension/icons/8.dds",
+    "m00SupportIconsExtension/icons/9.dds",
 }
 
 
